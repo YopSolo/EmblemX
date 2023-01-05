@@ -1,7 +1,7 @@
 # EmblemX
 Projet pédagogique
 
-une modif de plus
+Un tactical RPG
 
 GD1
 Lisaa 2022/2023
