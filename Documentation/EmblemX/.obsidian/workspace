@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "002bb086cd4b8580",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eee3769420c278b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ressources.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af9f2b0236895b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d20e32aa573e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0497c2040208019b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a137d3e101e4f5a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82dbbcfca3e81c21",
+    "type": "split",
+    "children": [
+      {
+        "id": "a24774e0859cdcdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c507210be58860f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ressources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0eee3769420c278b",
+  "lastOpenFiles": [
+    "Ressources.md",
+    "ScreenLoad.md",
+    "ScreenOptions.md",
+    "ScreenTitle.md"
+  ]
+}
