@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OptionsScreen.unity
     guid: 8fc1774e526313d41906502884ebf6d4
+  - enabled: 1
+    path: Assets/Scenes/NewOptionsScreen.unity
+    guid: a3ee6d7c3829cac4799812ec6e5eeb33
+  - enabled: 1
+    path: Assets/Scenes/NewTitleScene.unity
+    guid: a2e0dff7af1ab444ba111859b80f3429
   m_configObjects: {}
