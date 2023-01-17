@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ressources.md",
+            "file": "SoundManager.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources.md",
+                "file": "SoundManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,10 @@
   },
   "active": "0eee3769420c278b",
   "lastOpenFiles": [
-    "Ressources.md",
-    "ScreenLoad.md",
+    "SoundManager.md",
+    "ScreenTitle.md",
     "ScreenOptions.md",
-    "ScreenTitle.md"
+    "ScreenLoad.md",
+    "Ressources.md"
   ]
 }

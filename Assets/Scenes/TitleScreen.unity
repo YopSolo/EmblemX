@@ -308,6 +308,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2096537374}
     m_Modifications:
+    - target: {fileID: 1301438542727481853, guid: ca22434ddf2571444a723185da3c713d,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"repoGitUrl","value":{"$content":"https://github.com/YopSolo/EmblemX.git","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 7262312374242096249, guid: ca22434ddf2571444a723185da3c713d,
         type: 3}
       propertyPath: m_text
@@ -914,7 +920,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Lien
-      vers repo git","summary":null,"pan":{"x":-88.0,"y":-5.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-205.0,"y":-42.0},"guid":"d80c29d0-bbcd-42c9-95fd-ebd1a79e56fc","$version":"A","$type":"Unity.VisualScripting.OnPointerClick","$id":"10"},{"chainable":false,"member":{"name":"OpenURL","parameterTypes":["System.String"],"targetType":"UnityEngine.Application","targetTypeName":"UnityEngine.Application","$version":"A"},"defaultValues":{"%url":{"$content":"","$type":"System.String"}},"position":{"x":343.0,"y":-40.0},"guid":"45b2c74d-6185-4953-a204-22fc25c21d49","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"12"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"repoGitUrl","$type":"System.String"},"object":null},"position":{"x":-71.0,"y":140.0},"guid":"e90eb236-a14b-498f-a70d-577e95c268e7","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"15"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"ce929937-d3ad-4ba1-9d13-bcfc01666934","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"value","destinationUnit":{"$ref":"12"},"destinationKey":"%url","guid":"838ff00f-e484-4a11-8b51-8348c2995a7d","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}}'
+      vers repo git","summary":null,"pan":{"x":210.0,"y":-17.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-205.0,"y":-42.0},"guid":"d80c29d0-bbcd-42c9-95fd-ebd1a79e56fc","$version":"A","$type":"Unity.VisualScripting.OnPointerClick","$id":"10"},{"chainable":false,"member":{"name":"OpenURL","parameterTypes":["System.String"],"targetType":"UnityEngine.Application","targetTypeName":"UnityEngine.Application","$version":"A"},"defaultValues":{"%url":{"$content":"","$type":"System.String"}},"position":{"x":343.0,"y":-40.0},"guid":"45b2c74d-6185-4953-a204-22fc25c21d49","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"12"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"repoGitUrl","$type":"System.String"},"object":null},"position":{"x":-8.0,"y":148.0},"guid":"f3914f21-8864-466d-86dd-3b91d95644a9","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"15"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"ce929937-d3ad-4ba1-9d13-bcfc01666934","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"value","destinationUnit":{"$ref":"12"},"destinationKey":"%url","guid":"270f396d-81a3-4631-bf95-9804acfa313e","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}}'
     _objectReferences: []
 --- !u!114 &499473654
 MonoBehaviour:
@@ -929,8 +935,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"repoGitUrl","value":{"$content":"https://github.com/YopSolo/EmblemX","$type":"System.String"},"typeHandle":{"Identification":"System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!1 &624959850 stripped
 GameObject:
