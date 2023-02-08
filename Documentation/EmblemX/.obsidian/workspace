@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SoundManager.md",
+            "file": "BattleMap.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoundManager.md",
+                "file": "BattleMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,13 @@
   },
   "active": "0eee3769420c278b",
   "lastOpenFiles": [
+    "BattleMap.md",
     "SoundManager.md",
-    "ScreenTitle.md",
-    "ScreenOptions.md",
+    "medias/battlemap-cursor.png",
+    "medias/DocSoundManager.PNG",
+    "Ressources.md",
     "ScreenLoad.md",
-    "Ressources.md"
+    "ScreenTitle.md",
+    "ScreenOptions.md"
   ]
 }
