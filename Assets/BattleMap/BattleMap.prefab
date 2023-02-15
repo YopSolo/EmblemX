@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1481742779757529635}
   - component: {fileID: 2580689510546492212}
   m_Layer: 0
-  m_Name: MapBlock
+  m_Name: BattleMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
